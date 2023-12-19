@@ -251,15 +251,6 @@ a.nav-link img {
   padding: 180px 0;
 }
 
-.btn-orange {
-  background-color: #ffbd3b;
-}
-
-.btn-orange:hover {
-  background-color: #372b50;
-  color: #fff;
-}
-
 .home-icon p {
   font-size: 1em;
   color: #362a50;
@@ -276,12 +267,33 @@ a.nav-link img {
 .home-icon a {
   width: 70px;
   height: 70px;
-  color: white;
+  /* color: white; */
   text-align: center;
   padding: 10px;
   font-size: 20px;
   margin: 0 10px 0 0;
   border-radius: 10px;
+}
+
+.btn-orange-primary {
+  background-color: #ffbd3b;
+  color: #fff;
+}
+
+.btn-orange-secondary {
+  background-color: #fff;
+  color: #ffbd3b;
+  border: #ffbd3b solid 1px;
+}
+
+.btn-orange-primary:hover {
+  background-color: #372b50;
+  color: #fff;
+}
+
+.btn-orange-secondary:hover {
+  background-color: #372b50;
+  color: #fff;
 }
 
 /* Home Banner Css */
