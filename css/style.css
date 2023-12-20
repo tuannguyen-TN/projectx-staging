@@ -244,7 +244,7 @@ a.nav-link img {
 
 /* Home Banner Css*/
 .home-banner {
-  background: url("../images/home-banner.png") no-repeat top right/55%;
+  background: url("../images/home-banner-alternative.png") no-repeat right/55%;
   display: flex;
   justify-content: center;
   align-items: center;
