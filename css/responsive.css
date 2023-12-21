@@ -47,7 +47,7 @@
         font-size: 16px;
         padding: 8px 20px;
     }
-    /* Header Css */   
+    /* Header Css */
     li.nav-item .nav-link {
         font-size: 14px;
     }
@@ -102,14 +102,14 @@
     .author-content h5 {
         font-size: 20px;
     }
-    /* Investor Section Css */ 
+    /* Investor Section Css */
     .our-investiment-bg {
         padding: 0 40px;
     }
     .investor-img {
         max-width: 110px;
         max-height: 110px;
-    } 
+    }
     .about-investor h5 {
         font-size: 18px;
     }
@@ -118,13 +118,13 @@
     }
     .spark-bg {
         padding: 40px 60px 20px 60px;
-    } 
+    }
     /* Our Investor Partners Section Css */
     .partner-content h5 {
         font-size: 18px;
     }/*=== About Page Section Css ===*/
-    /*=== Career Page Section Css ===*/ 
-    /* Why Join Us Section Css */ 
+    /*=== Career Page Section Css ===*/
+    /* Why Join Us Section Css */
     .join-content h5 {
         font-size: 20px;
     }
@@ -135,9 +135,9 @@
     .oppo-content h5 {
         font-size: 18px;
     }
-    /*=== Career Page Section Css ===*/ 
+    /*=== Career Page Section Css ===*/
     /*=== Team Page Section Css ===*/
-    /* Spark Team Portfolio Section Css */ 
+    /* Spark Team Portfolio Section Css */
     .member-name h5 {
         font-size: 20px;
     }
@@ -289,13 +289,13 @@
     .slider-nav2 {
         margin: 30px 0;
     }/*=== About Page Section Css ===*/
-     /*=== Career Page Section Css ===*/ 
+     /*=== Career Page Section Css ===*/
      /* Oppoturnity Section Css */
      .oppo-banner {
         background: url("../images/oppo-bg.png") no-repeat center right/65%;
     }
     .new-oppo-border {
-        margin: 0; 
+        margin: 0;
         padding: 20px 20px 20px 20px;
     }
     /* Who We Loking Section Css */
@@ -311,8 +311,8 @@
     }
     .join-content p {
         font-size: 12px;
-    }/*=== Career Page Section Css ===*/ 
-    /*=== Team Page Section Css ===*/ 
+    }/*=== Career Page Section Css ===*/
+    /*=== Team Page Section Css ===*/
     /* Spark Team Section Css */
     .member-img {
         width: 80px;
@@ -331,15 +331,15 @@
     /* Developer And Markter Section Css */
     .spark-content h3 {
         font-size: 22px;
-    }/*=== Team Page Section Css ===*/ 
-    /*=== Privacy Page Section Css ===*/ 
+    }/*=== Team Page Section Css ===*/
+    /*=== Privacy Page Section Css ===*/
     .privacy-banner {
        padding: 30px;
-    }/*=== Privacy Page Section Css ===*/ 
-    /*=== FAQ Page Section Css ===*/ 
+    }/*=== Privacy Page Section Css ===*/
+    /*=== FAQ Page Section Css ===*/
     .faq-banner {
         padding: 30px;
-    }/*=== FAQ Page Section Css ===*/ 
+    }/*=== FAQ Page Section Css ===*/
 }
 /* 991px css */
 @media only screen and (max-width: 991px) {
@@ -523,7 +523,7 @@
         display: none;
     }
     .effetive-image {
-        margin-top: 5px; 
+        margin-top: 5px;
     }
     /* How We are Work Section Css */
     .video-popup-button {
@@ -735,7 +735,7 @@
     footer img {
         width: 150px;
     }
-    .footer-content li {    
+    .footer-content li {
         margin-top: 5px;
     }
     .footer-icon li:nth-child(1) {
@@ -866,7 +866,7 @@
         margin-right: 13px;
     }/*=== Team Page Section Css ===*/
     /*=== Privacy Page Section Css ===*/
-    .policy-content {   
+    .policy-content {
         padding: 30px;
     }/*=== Privacy Page Section Css ===*/
     /*=== FAQ Page Section Css ===*/
@@ -913,7 +913,7 @@
         background: transparent;
         height: 100%;
         margin: 0;
-    } 
+    }
     /* How We Are Work Section Css */
     .we-border {
         padding: 10px;
@@ -939,7 +939,7 @@
         top: auto;
     }
     #sync2 .item .user-content {
-        margin: 20px 15px; 
+        margin: 20px 15px;
     }
     /* News Letter Section Css */
     .email-btn i {
@@ -1009,7 +1009,7 @@
     }
     .about-member-follow {
         padding: 40px 89px 2px 89px;
-    } 
+    }
     /*=== Team Page Section Css ===*/
     /*=== FAQ Page Section Css ===*/
     .accordion-header {
@@ -1101,7 +1101,7 @@
     .contact-form-bg i {
         margin-left: 0px;
         font-size: 18px;
-    }  
+    }
     .contact-form-bg {
         padding: 0px 20px 2px 20px;
         margin-bottom: 10px;
@@ -1125,7 +1125,7 @@
     .author-content .sig-img {
         width: 80px;
     }
-    .author-content h5 {    
+    .author-content h5 {
         font-size: 14px;
     }
     .author-content h6 {
@@ -1155,7 +1155,7 @@
     /*=== Career Page Section Css ===*/
     .oppo-banner {
         height: 100%;
-        background: transparent; 
+        background: transparent;
     }
     /* Who where looking Section Css */
     .looking-bg {
@@ -1231,7 +1231,7 @@
     }
     .accordion__item > .accordion-header::after:nth-child(3){
         left:10px;
-    } 
+    }
     /*=== FAQ Section Css ===*/
 }
 /* 350px css */
