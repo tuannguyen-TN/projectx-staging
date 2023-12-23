@@ -102,6 +102,9 @@
     .author-content h5 {
         font-size: 20px;
     }
+    .author-content p {
+        font-size: 20px;
+    }
     /* Investor Section Css */
     .our-investiment-bg {
         padding: 0 40px;
@@ -274,6 +277,9 @@
     .author-content .sig-img {
         width: 110px;
     }
+    .author-content p {
+        font-size: 20px;
+    }
     /* Investor Section Css */
     .our-investiment-bg::after {
         width: 60px;
@@ -328,6 +334,9 @@
     .about-member-follow {
     	padding: 40px 55px 2px 55px;
 	}
+    .author-bg {
+        margin-top: 0px;
+    }
     /* Developer And Markter Section Css */
     .spark-content h3 {
         font-size: 22px;
@@ -500,7 +509,7 @@
         margin-top: -20px;
     }
     .effective1 {
-        margin-top: -60px;
+        margin-top: -25px;
     }
     .effective-bg {
         padding: 30px 0;
@@ -581,6 +590,9 @@
     .who-spark-banner {
         height: 70vh;
     }
+    .author-content p {
+        font-size: 20px;
+    }
     /* Our Author Section Css */
     .head h2 br{
         display: none;
@@ -644,6 +656,9 @@
     .member-name p {
         font-size: 14px;
     }
+    .author-bg {
+        margin-top: 0px;
+    }
     /* Markter And Developer Section Css */
     .markter {
         padding: 50px 30px 40px 30px;
@@ -674,7 +689,7 @@
 	/*=== Home Page Section Css ===*/
     .home-banner {
         padding: 80px 0;
-        background: url("../images/home-banner.png") no-repeat center right/75%;
+        background: url("../images/home-banner.png") no-repeat center right/65%;
     }
     .main-heading h1 {
         font-size: 35px;
@@ -774,6 +789,9 @@
     .author-content h6{
         font-size: 14px;
     }
+    .author-content p {
+        font-size: 20px;
+    }
     /* Investor Section Css */
     .investor-img {
         max-width: 90px;
@@ -860,6 +878,9 @@
     }
     .about-member-follow {
         padding: 40px 30px 2px 30px;
+    }
+    .author-bg {
+        margin-top: 0px;
     }
     .follow li {
         margin-top: 12px;
@@ -977,6 +998,9 @@
     .partner-content h5 {
         font-size: 16px;
     }
+    .author-content p {
+        font-size: 20px;
+    }
     /*=== Career Page Section Css ===*/
     /* Opportunity Section Css */
     .oppo-banner {
@@ -1009,6 +1033,9 @@
     }
     .about-member-follow {
         padding: 40px 89px 2px 89px;
+    }
+    .author-bg {
+        margin-top: 0px;
     }
     /*=== Team Page Section Css ===*/
     /*=== FAQ Page Section Css ===*/
@@ -1131,6 +1158,9 @@
     .author-content h6 {
         font-size: 12px;
     }
+    .author-content p {
+        font-size: 20px;
+    }
     /* investor Section Css */
     .our-investiment-bg {
         padding: 0 20px;
@@ -1185,6 +1215,9 @@
     }
     .team {
         margin: 0px 0 60px 0;
+    }
+    .author-bg {
+        margin-top: 0px;
     }
     /* Spark Team Section Css */
     .team-memebr .member-profession li {
@@ -1245,6 +1278,9 @@
     .who {
         margin: 0px 0 140px 0;
     }
+    .author-content p {
+        font-size: 20px;
+    }
     /*=== Career Page Section Css ===*/
     .oppo-banner {
     	height: 100%;
@@ -1270,7 +1306,7 @@
         padding-top: 0;
     }
     .author-bg {
-        margin-top: -136px;
+        margin-top: 0px;
     }
     .about-member-follow {
         padding: 40px 35px 2px 35px;
