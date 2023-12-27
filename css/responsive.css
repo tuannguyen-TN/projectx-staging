@@ -34,7 +34,7 @@
 /* 1599px css */
 @media only screen and (max-width: 1599px) {
     .home-banner {
-        padding: 120px 0;
+        padding: 130px 0;
     }
 }
 /* 1429px css */
@@ -53,7 +53,7 @@
     }
     /*=== Home Page Section Css ===*/
     .home-banner {
-        background: url("../images/home-banner.png") no-repeat center right/55%;
+        background: url("../images/home-banner.png") no-repeat top right/55%;
     }
     .main-heading h1 {
         font-size: 55px;
@@ -175,7 +175,7 @@
     }
     /*=== Home Page Section Css ===*/
     .home-banner {
-        background: url("../images/home-banner.png") no-repeat center right/62%;
+        background: url("../images/home-banner.png") no-repeat top right/62%;
     }
     .main-heading h1 {
         font-size: 48px;
